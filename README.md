@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sadikortaoglan">
 <br>
 <h3 align="center">
-  Hello there, I'm Osman 👋
+  Hello there, I'm Sadık 👋
 </h3>
 <h5 align="center">
   <code>
