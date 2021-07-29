@@ -20,8 +20,15 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I'm currently learning to develop Rental Car project with .NET Core
+  📚 I developed a car rental site with .net core
   <br>
+  <br>
+  📚 I am currently developing a Human resource management project with Java-spring
+  <br>
+   <br>
+  💻 I write what I know on medium <a href="https://sadikortaoglan.medium.com/" title="Issues">Here</a>
+  <br>
+  
   💬 Ask me anything about from <a href="https://github.com/Sadikortaoglan" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: sadik.ortaoglan@gmail.com">sadik.ortaoglan@gmail.com</a>
