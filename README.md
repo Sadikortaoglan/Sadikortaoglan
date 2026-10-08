@@ -5,40 +5,20 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  •
-  <a href="YOUR_HACKERRANK_URL">HackerRank</a>
-  •
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="YOUR_HACKERRANK_URL">HackerRank</a> •
   <a href="YOUR_STACKOVERFLOW_URL">Stack Overflow</a>
 </p>
 
 ---
 
-I'm a software developer, mostly working on backend systems with Java, Spring and SAP Commerce.
+I'm a software developer focused mainly on **backend development, enterprise systems and production environments**.
 
-I like building things, but I probably enjoy figuring out why something doesn't work even more.
+Most of my professional work has been around **Java, Spring and SAP Commerce (Hybris)**, building and maintaining B2B/B2C systems, integrations and backend services.
 
-A failed request, a message that disappeared somewhere, a payment stuck in an unknown state, or a production issue that only happens once in a while — those are usually the problems that pull me in.
+I've also been working with microservices and event-driven systems using tools like **Kafka, RabbitMQ and Redis**, along with Docker, Kubernetes and CI/CD environments.
 
-My first reaction is rarely:
-
-> "Let's patch it and move on."
-
-I want to understand what actually happened, where the system lost control, and how we can make the same problem easier to understand the next time.
-
-Over the years I've worked with B2B and B2C commerce systems, integrations, backend services and production environments where the difficult part isn't always writing the code.
-
-Sometimes the difficult part is simply answering:
-
-### What happened?
-
-And then figuring out:
-
-### What is the safest thing to do next?
-
-That's the kind of engineering I enjoy.
-
-If you have a backend problem that needs someone to dig into it, understand the system and keep asking **why** until it makes sense, that's probably where I can help.
+I enjoy getting into existing systems, understanding how they actually work, and solving problems that aren't always obvious from the code alone.
 
 ---
 
@@ -46,191 +26,71 @@ If you have a backend problem that needs someone to dig into it, understand the 
 
 ### Backend
 
-`Java` `Spring Boot` `Spring MVC` `REST APIs` `Hibernate` `JPA`
+`Java` `Spring Boot` `Spring MVC` `REST API` `Hibernate` `JPA`
 
-### Commerce & Enterprise Systems
+### SAP Commerce
 
-`SAP Commerce / Hybris` `B2B` `B2C` `Integrations`
+`SAP Commerce / Hybris` `B2B` `B2C` `Backoffice` `SmartEdit` `FlexibleSearch`
 
-### Messaging & Distributed Systems
+### Microservices & Messaging
 
-`Kafka` `RabbitMQ` `Redis` `Microservices`
+`Microservices` `Kafka` `RabbitMQ` `Redis` `Event-Driven Architecture`
 
-### Data & Search
+### Database & Search
 
-`PostgreSQL` `MySQL` `Elasticsearch`
+`PostgreSQL` `MySQL` `MSSQL` `Elasticsearch`
 
 ### DevOps & Observability
 
 `Docker` `Kubernetes` `ArgoCD` `CI/CD` `Grafana` `Graylog`
 
-### Also working with
+### Frontend & Other Technologies
 
-`Node.js` `NestJS` `Next.js` `AI-assisted development`
-
----
-
-## Things I care about
-
-When something goes wrong, these are usually the questions running through my head:
-
-- Why did it fail?
-- Can we reproduce it?
-- What happens if we retry?
-- Can the same operation happen twice?
-- What happens when one service succeeds and another doesn't?
-- What state is the system actually in right now?
-- Do we have enough logs and evidence to understand what happened?
-- Are we fixing the real problem or just hiding the symptom?
-- Will someone understand this incident six months from now?
-
-I don't think every problem needs a complicated architecture.
-
-But I do think we should understand the problem before choosing the solution.
+`JavaScript` `TypeScript` `Node.js` `NestJS` `Next.js` `HTML` `CSS` `JSP` `JSTL`
 
 ---
 
-## Production changes the problem
+## What I work on
 
-A system can look perfectly fine in a diagram and still behave very differently in production.
-
-Networks fail.
-
-Messages arrive late.
-
-Requests are retried.
-
-Users click twice.
-
-One service succeeds while another one doesn't.
-
-A third-party system may respond after you've already given up waiting.
-
-Those cases are much more interesting to me than the happy path.
-
-I like thinking about how systems behave when things don't go exactly as planned.
+- Backend services and REST APIs
+- SAP Commerce / Hybris development
+- B2B and B2C commerce systems
+- Microservice architectures
+- System integrations
+- Kafka and asynchronous communication
+- Production debugging and incident investigation
+- Database and performance-related problems
+- CI/CD and containerized applications
+- Monitoring and observability
 
 ---
 
-## A few areas I'm interested in
+## Currently exploring
 
-I'm especially interested in:
+`Distributed Systems` `System Design` `AI-assisted Development`
 
-- Backend architecture
-- Distributed systems
-- Microservice communication
-- Event-driven systems
-- Kafka and asynchronous processing
-- Idempotency
-- Retry strategies
-- Partial failures
-- Payment and transaction flows
-- Observability
-- Production debugging
-- System reliability
-- Breaking large systems into smaller, maintainable services
-
----
-
-## What I'm building and exploring
-
-I usually learn by building things.
-
-Recently I've been spending time on small systems and experiments around:
-
-- Order, stock and payment services
-- Kafka-based communication
-- Idempotent operations
-- Outbox patterns
-- Eventual consistency
-- Redis
-- Dockerized development environments
-- Microservice failure scenarios
-- Backend observability
-- SaaS products
-- AI-assisted software development
-
-Some experiments become real projects.
-
-Some end up teaching me why the original idea was terrible.
-
-Both are useful.
-
----
-
-## AI-assisted development
-
-I use AI as part of my development workflow, but I don't see it as a replacement for engineering judgment.
-
-It can help me explore an unfamiliar codebase, compare approaches, write repetitive code faster or challenge an idea.
-
-But someone still needs to understand the system.
-
-Someone still needs to ask whether the generated solution actually makes sense.
-
-And someone still needs to be responsible when it reaches production.
-
-That's the part I'm interested in.
-
----
-
-## A bit about how I work
-
-I tend to spend more time on a problem than just asking:
-
-> "How do we make this work?"
-
-I also want to know:
-
-> "Why does it work this way?"
-
-and sometimes:
-
-> "Should it work this way at all?"
-
-I like digging into systems, following the flow from one service to another, reading logs, checking assumptions and finding the point where reality stopped matching what we expected.
-
-Sometimes the answer is code.
-
-Sometimes it's architecture.
-
-Sometimes it's an operational process.
-
-And sometimes the best fix is deleting something that never needed to exist in the first place.
+I use AI as part of my development workflow, mainly for research, code exploration and speeding up repetitive work — while keeping engineering decisions and responsibility on the developer side.
 
 ---
 
 ## GitHub
 
-Not everything here is a polished product.
-
-Some repositories are experiments.
-
-Some are things I'm actively building.
-
-Some exist because I wanted to understand one specific problem better.
-
-That's pretty much how I learn.
+I use GitHub both for projects and for experimenting with technologies and ideas that I want to understand better.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Sadikortaoglan&show_icons=true&hide_border=true&hide_title=true"
+    src="https://github-readme-stats.vercel.app/api?username=Sadikortaoglan&show_icons=true&hide_border=true"
     height="165"
   />
 </p>
 
 ---
 
-## Let's talk
-
-If you're working on a backend problem, a production issue, an integration that behaves strangely, or a system that has become harder to understand than it should be, feel free to reach out.
-
-I may not know the answer immediately.
-
-But I'll probably enjoy figuring it out.
+<p align="center">
+  <b>Have a backend problem or an interesting project?</b>
+</p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  •
-  <a href="mailto:sadik.ortaoglan@gmail.com">sadik.ortaoglan@gmail.com</a>
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="mailto:sadik.ortaoglan@gmail.com">Email</a>
 </p>
